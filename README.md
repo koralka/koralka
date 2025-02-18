@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ About me: I'm Polish but I've been in the UK since 2020. I'm a yoga teacher, I studied psychology. I travel quite a lot and recently started photography (only as a hobby). 
 -->
 ## A Yoga Teacher by day ☼ and an aspiring data analyst by night ☾
-### ...or just a girl with too many hobbies. 
+
 I'm Karolina, I'm 24. Originally from Poland, now based in the UK. I have a background in psychology and research, and I’m currently building my data analytics skills with **Python, SQL, Excel, and Tableau**.  
 
 Some facts:
