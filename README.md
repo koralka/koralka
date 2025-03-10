@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 -->
 ## A Yoga Teacher by day ☼ and an aspiring data analyst by night ☾
 
-I'm Karolina, I'm 24. Originally from Poland, now based in the UK. I have a background in psychology and research, and I’m currently building my data analytics skills with **Python, SQL, Excel, and Tableau**.  
+Originally from Poland, now based in the UK, I have a background in psychology and research and am currently expanding my skills in data analytics with Python, SQL, Excel, and Tableau.
 
-Some facts:
-- 🔭 I’m currently working on improving my data analysis & visualisation skills.
-- 🤝 I'm open to collaborating on projects to practice working with real-world data. 
-- 🌍 I love to travel — happy to share Indonesia travel tips!
-- 📸 I'm into photography, dancing, painting, and probably picking up another hobby soon. 
+What I’m Working On
+🔹 Developing my data analysis & visualisation skills through hands-on projects.
+🔹 Collaborating on real-world data projects to gain practical experience.
+🔹 Exploring ways to combine behavioural insights with data-driven decision-making.
+
+Outside of Data & Research
+📍 Avid traveller - always happy to swap travel tips (ask me about Indonesia!).
+📸 Creative at heart - into photography, dancing, and painting (and probably picking up a new hobby soon).
 
  📬 Let's connect: karolinam.yoga@gmail.com
 
