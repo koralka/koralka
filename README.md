@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 Originally from Poland, now based in the UK, I have a background in psychology and research and am currently expanding my skills in data analytics with Python, SQL, Excel, and Tableau.
 
-What I’m Working On
-🔹 Developing my data analysis & visualisation skills through hands-on projects.
-🔹 Collaborating on real-world data projects to gain practical experience.
-🔹 Exploring ways to combine behavioural insights with data-driven decision-making.
+What I’m Working On  
+🔹 Developing my data analysis & visualisation skills through hands-on projects.  
+🔹 Collaborating on real-world data projects to gain practical experience.  
+🔹 Exploring ways to combine behavioural insights with data-driven decision-making.  
 
-Outside of Data & Research
-📍 Avid traveller - always happy to swap travel tips (ask me about Indonesia!).
-📸 Creative at heart - into photography, dancing, and painting (and probably picking up a new hobby soon).
+Outside of Data & Research  
+📍 Avid traveller - always happy to swap travel tips (ask me about Indonesia!).  
+📸 Creative at heart - into photography, dancing, and painting (and probably picking up a new hobby soon).  
 
  📬 Let's connect: karolinam.yoga@gmail.com
 
