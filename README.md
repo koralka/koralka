@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: karolinam.yoga@gmail.com
 - ⚡ About me: I'm Polish but I've been in the UK since 2020. I'm a yoga teacher, I studied psychology. I travel quite a lot and recently started photography (only as a hobby). 
 -->
-## A Yoga Teacher by day ☼ and an aspiring data analyst by night ☾
+## Data Analyst by day ☼ and a yoga teacher by night ☾
 
-Originally from Poland, now based in the UK, I have a background in psychology and research and am currently expanding my skills in data analytics with Python, SQL, Excel, and Tableau.
+Originally from Poland, now based in the UK, I have a background in psychology and research and currently work as a BI Analyst.
 
 What I’m Working On  
-🔹 Developing my data analysis & visualisation skills through hands-on projects.  
-🔹 Collaborating on real-world data projects to gain practical experience.  
+🔹 Improving my data analysis & visualisation skills.    
 🔹 Exploring ways to combine behavioural insights with data-driven decision-making.  
 
 Outside of Data & Research  
